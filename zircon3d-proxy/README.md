@@ -1,5 +1,3 @@
-# Zircon3D Home Assistant Proxy (Release Candidate)
-
 ## What is Zircon3D
 
 Zircon3D is a system that allows you to create 3D building visualizations with real-time data. 
