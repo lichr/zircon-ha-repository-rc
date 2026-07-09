@@ -2,7 +2,7 @@ name: Zircon3D Proxy (RC)
 description: "This add-on allows accessing Zircon3D system from Home Assistant"
 version: "3.0.0-rc.2"
 slug: zircon3d_ha_proxy
-image: lichr/zircon3d-ha-proxy-{arch}
+image: lichr/zircon3d-ha-proxy-stg-{arch}
 panel_title: Zircon3D RC
 panel_icon: mdi:floor-plan
 init: false
